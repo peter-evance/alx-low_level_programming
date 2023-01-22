@@ -1,1 +1,1 @@
-# Variadic functions
+read me about variadic functions
